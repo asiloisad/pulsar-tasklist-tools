@@ -9,3 +9,26 @@
     { 'label': 'Set Tasks as Info', 'command': 'tasklist-tools:info'   }
     { 'type': 'separator' }
   ]
+
+'menu': [
+  {
+    label: 'Packages'
+    submenu: [
+      {
+        label: 'Tasklist Tools'
+        submenu: [
+          { label: 'Toggle Tasks', command: 'tasklist-tools:toggle' }
+          { label: 'Set as High', command: 'tasklist-tools:high' }
+          { label: 'Set as Todo', command: 'tasklist-tools:todo' }
+          { label: 'Set as Done', command: 'tasklist-tools:done' }
+          { label: 'Set as Fail', command: 'tasklist-tools:fail' }
+          { label: 'Set as Info', command: 'tasklist-tools:info' }
+          { type: 'separator' }
+          { label: 'Translate', command: 'tasklist-tools:translate' }
+          { label: 'Move Items to Next Header', command: 'tasklist-tools:move-items-to-next-header' }
+          { label: 'Move Items to Last Header', command: 'tasklist-tools:move-items-to-last-header' }
+        ]
+      }
+    ]
+  }
+]
