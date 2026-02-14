@@ -1,6 +1,6 @@
 {
   "name": "tasklist-tools",
-  "description": "A superset of commands to improve tasklist workflow",
+  "description": "Task state management and navigation commands for tasklist files",
   "repository": "https://github.com/asiloisad/pulsar-tasklist-tools",
   "keywords": [
     "tasklist",
