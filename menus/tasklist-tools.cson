@@ -24,6 +24,13 @@
           { label: 'Set as Fail', command: 'tasklist-tools:set-as-fail' }
           { label: 'Set as Info', command: 'tasklist-tools:set-as-info' }
           { type: 'separator' }
+          { label: 'Go to Next Tick', command: 'tasklist-tools:go-to-next-tick' }
+          { label: 'Go to Next High', command: 'tasklist-tools:go-to-next-high' }
+          { label: 'Go to Next Todo', command: 'tasklist-tools:go-to-next-todo' }
+          { label: 'Go to Next Done', command: 'tasklist-tools:go-to-next-done' }
+          { label: 'Go to Next Fail', command: 'tasklist-tools:go-to-next-fail' }
+          { label: 'Go to Next Info', command: 'tasklist-tools:go-to-next-info' }
+          { type: 'separator' }
           { label: 'Translate Markdown', command: 'tasklist-tools:translate-markdown' }
           { label: 'Move Items to Next Header', command: 'tasklist-tools:move-items-to-next-header' }
           { label: 'Move Items to Last Header', command: 'tasklist-tools:move-items-to-last-header' }
