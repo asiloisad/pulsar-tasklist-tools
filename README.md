@@ -22,12 +22,12 @@ To install `tasklist-tools` search for [tasklist-tools](https://web.pulsar-edit.
 Commands available in `atom-text-editor:not([mini])`. Keybindings work only in `atom-text-editor[data-grammar~="tasklist"]:not([mini])`:
 
 - `tasklist-tools:toggle`: <kbd>Alt+Enter</kbd> add or toggle tick of selected tasks by `▷` `☐` `•` -> `✔` -> `✘` -> `☐` cycle,
-- `tasklist-tools:high`: <kbd>Alt+/</kbd> add or change tick of selected tasks as `▷`,
-- `tasklist-tools:todo`: <kbd>Alt+*</kbd> add or change tick of selected tasks as `☐`,
-- `tasklist-tools:done`: <kbd>Alt++</kbd> add or change tick of selected tasks as `✔`,
-- `tasklist-tools:fail`: <kbd>Alt+-</kbd> add or change tick of selected tasks as `✘`,
-- `tasklist-tools:info`: <kbd>Alt+.</kbd> add or change tick of selected tasks as `•`,
-- `tasklist-tools:translate`: translate markdown-style ticks and bullets to tasklist-style,
+- `tasklist-tools:set-as-high`: <kbd>Alt+/</kbd> add or change tick of selected tasks as `▷`,
+- `tasklist-tools:set-as-todo`: <kbd>Alt+*</kbd> add or change tick of selected tasks as `☐`,
+- `tasklist-tools:set-as-done`: <kbd>Alt++</kbd> add or change tick of selected tasks as `✔`,
+- `tasklist-tools:set-as-fail`: <kbd>Alt+-</kbd> add or change tick of selected tasks as `✘`,
+- `tasklist-tools:set-as-info`: <kbd>Alt+.</kbd> add or change tick of selected tasks as `•`,
+- `tasklist-tools:translate-markdown`: translate markdown-style ticks and bullets to tasklist-style,
 - `tasklist-tools:move-items-to-next-header`: move selected items to next header,
 - `tasklist-tools:move-items-to-last-header`: move selected items to last header,
 - `tasklist-tools:move-to-next-header`: set cursor position equal to next header,

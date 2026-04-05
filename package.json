@@ -15,12 +15,12 @@
   "activationCommands": {
     "atom-text-editor": [
       "tasklist-tools:toggle",
-      "tasklist-tools:high",
-      "tasklist-tools:todo",
-      "tasklist-tools:done",
-      "tasklist-tools:fail",
-      "tasklist-tools:info",
-      "tasklist-tools:translate",
+      "tasklist-tools:set-as-high",
+      "tasklist-tools:set-as-todo",
+      "tasklist-tools:set-as-done",
+      "tasklist-tools:set-as-fail",
+      "tasklist-tools:set-as-info",
+      "tasklist-tools:translate-markdown",
       "tasklist-tools:move-items-to-last-header",
       "tasklist-tools:move-items-to-next-header",
       "tasklist-tools:move-to-last-header",
