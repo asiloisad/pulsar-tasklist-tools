@@ -1,7 +1,7 @@
 'context-menu':
   'atom-text-editor[data-grammar~="tasklist"]:not([mini])': [
     { 'type': 'separator' }
-    { 'label': 'Toggle Tasks'     , 'command': 'tasklist-tools:toggle' }
+    { 'label': 'Toggle Tasks'     , 'command': 'tasklist-tools:toggle-tick' }
     { 'label': 'Set Tasks as High', 'command': 'tasklist-tools:set-as-high' }
     { 'label': 'Set Tasks as Todo', 'command': 'tasklist-tools:set-as-todo' }
     { 'label': 'Set Tasks as Done', 'command': 'tasklist-tools:set-as-done' }
@@ -17,7 +17,7 @@
       {
         label: 'Tasklist Tools'
         submenu: [
-          { label: 'Toggle Tasks', command: 'tasklist-tools:toggle' }
+          { label: 'Toggle Tasks', command: 'tasklist-tools:toggle-tick' }
           { label: 'Set as High', command: 'tasklist-tools:set-as-high' }
           { label: 'Set as Todo', command: 'tasklist-tools:set-as-todo' }
           { label: 'Set as Done', command: 'tasklist-tools:set-as-done' }

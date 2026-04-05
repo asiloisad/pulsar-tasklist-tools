@@ -1,5 +1,5 @@
 'atom-text-editor[data-grammar~="tasklist"]:not([mini])':
-  'alt-enter': 'tasklist-tools:toggle'
+  'alt-enter': 'tasklist-tools:toggle-tick'
   'alt-/'    : 'tasklist-tools:set-as-high'
   'alt-*'    : 'tasklist-tools:set-as-todo'
   'alt-+'    : 'tasklist-tools:set-as-done'

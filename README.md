@@ -21,7 +21,7 @@ To install `tasklist-tools` search for [tasklist-tools](https://web.pulsar-edit.
 
 Commands available in `atom-text-editor[data-grammar~="tasklist"]:not([mini])`:
 
-- `tasklist-tools:toggle`: <kbd>Alt+Enter</kbd> add or toggle tick of selected tasks by `▷` `☐` `•` -> `✔` -> `✘` -> `☐` cycle,
+- `tasklist-tools:toggle-tick`: (default <kbd>Alt+Enter</kbd>) add or toggle tick of selected tasks by `▷` `☐` `•` -> `✔` -> `✘` -> `☐` cycle,
 - `tasklist-tools:set-as-high`: <kbd>Alt+/</kbd> add or change tick of selected tasks as `▷`,
 - `tasklist-tools:set-as-todo`: <kbd>Alt+*</kbd> add or change tick of selected tasks as `☐`,
 - `tasklist-tools:set-as-done`: <kbd>Alt++</kbd> add or change tick of selected tasks as `✔`,
