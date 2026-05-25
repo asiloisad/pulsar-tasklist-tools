@@ -21,12 +21,12 @@ To install `tasklist-tools` search for [tasklist-tools](https://web.pulsar-edit.
 
 Commands available in `atom-text-editor[data-grammar~="tasklist"]:not([mini])`:
 
-- `tasklist-tools:toggle-tick`: (default <kbd>Alt+Enter</kbd>) add or toggle tick of selected tasks by `▷` `☐` `•` -> `✔` -> `✘` -> `☐` cycle,
-- `tasklist-tools:set-as-high`: <kbd>Alt+/</kbd> add or change tick of selected tasks as `▷`,
-- `tasklist-tools:set-as-todo`: <kbd>Alt+*</kbd> add or change tick of selected tasks as `☐`,
-- `tasklist-tools:set-as-done`: <kbd>Alt++</kbd> add or change tick of selected tasks as `✔`,
-- `tasklist-tools:set-as-fail`: <kbd>Alt+-</kbd> add or change tick of selected tasks as `✘`,
-- `tasklist-tools:set-as-info`: <kbd>Alt+.</kbd> add or change tick of selected tasks as `•`,
+- `tasklist-tools:toggle-tick`: add or toggle tick of selected tasks by `▷` `☐` `•` -> `✔` -> `✘` -> `☐` cycle,
+- `tasklist-tools:set-as-high`: add or change tick of selected tasks as `▷`,
+- `tasklist-tools:set-as-todo`: add or change tick of selected tasks as `☐`,
+- `tasklist-tools:set-as-done`: add or change tick of selected tasks as `✔`,
+- `tasklist-tools:set-as-fail`: add or change tick of selected tasks as `✘`,
+- `tasklist-tools:set-as-info`: add or change tick of selected tasks as `•`,
 - `tasklist-tools:go-to-next-tick`: navigate to next tick of any type with wraparound,
 - `tasklist-tools:go-to-next-high`: navigate to next `▷` tick with wraparound,
 - `tasklist-tools:go-to-next-todo`: navigate to next `☐` tick with wraparound,
