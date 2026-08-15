@@ -1,7 +1,7 @@
 {
   "name": "tasklist-tools",
   "description": "Task state management and navigation commands for tasklist files",
-  "repository": "https://github.com/asiloisad/pulsar-tasklist-tools",
+  "repository": "https://github.com/asiloisad-pulsar/tasklist-tools",
   "keywords": [
     "tasklist",
     "tools"

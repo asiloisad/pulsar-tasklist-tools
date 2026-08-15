@@ -1,8 +1,8 @@
 # tasklist-tools
 
-Task state management and navigation commands for tasklist files. Requires a grammar package such as [language-tasklist](https://github.com/asiloisad/pulsar-language-tasklist).
+Task state management and navigation commands for tasklist files. Requires a grammar package such as [language-tasklist](https://github.com/asiloisad-pulsar/language-tasklist).
 
-![status-bar](https://github.com/asiloisad/pulsar-tasklist-tools/blob/master/assets/status-bar.png?raw=true)
+![status-bar](https://github.com/asiloisad-pulsar/tasklist-tools/blob/master/assets/status-bar.png?raw=true)
 
 ## Features
 
@@ -11,7 +11,7 @@ Task state management and navigation commands for tasklist files. Requires a gra
 - **Header navigation**: Jump between headers or move items to headers.
 - **Status bar counter**: Shows task counts by type with click-to-navigate.
 - **Markdown translation**: Convert markdown checkboxes to tasklist format.
-- **Navigation panel**: Outline support via [navigation-panel](https://github.com/asiloisad/pulsar-navigation-panel).
+- **Navigation panel**: Outline support via [navigation-panel](https://github.com/asiloisad-pulsar/navigation-panel).
 
 ## Installation
 
