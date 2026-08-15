@@ -15,7 +15,7 @@ Task state management and navigation commands for tasklist files. Requires a gra
 
 ## Installation
 
-To install `tasklist-tools` search for [tasklist-tools](https://web.pulsar-edit.dev/packages/tasklist-tools) in the Install pane of the Pulsar settings or run `ppm install tasklist-tools`. Alternatively, you can run `ppm install asiloisad/pulsar-tasklist-tools` to install a package directly from the GitHub repository.
+To install `tasklist-tools` search for [tasklist-tools](https://web.pulsar-edit.dev/packages/tasklist-tools) in the Install pane of the Pulsar settings or run `ppm install tasklist-tools`. Alternatively, you can run `ppm install asiloisad-pulsar/tasklist-tools` to install a package directly from the GitHub repository.
 
 ## Commands
 
